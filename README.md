@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**c2-mrinal/c2-mrinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **c2-mrinal/c2-mrinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Coffee 
 - 📫 How to reach me: www.mrinalkasyap.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
