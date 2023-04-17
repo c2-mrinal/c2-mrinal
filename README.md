@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mrinal Kasyap</h1>
 
 <h3 align="left">Connect with me: <a href="https://mrinalkasyap.com">mrinalkasyap.com</a></h3>
+<h3>Connect on Social:</h3>
 <p align="left">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/c2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinal-kasyap-695853171) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/c2-mrinal) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/c2-mrinal) 
 </p>
 
 
