@@ -4,6 +4,5 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c2-mrinal&" alt="c2-mrinal" /></p>
