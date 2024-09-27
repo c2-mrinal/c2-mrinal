@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mrinal Kasyap</h1>
 
-<h3 align="left">Connect with me: <a href="https://www.mrinalkasyap.com">www.mrinalkasyap.com</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.mrinalkasyap.site">mrinalkasyap.site</a></h3>
 <h3>Connect on Social:</h3>
 <span align="left">
   
